@@ -1,6 +1,6 @@
 # Talking Frame
 
-I soldered a speaker with a custom message onto a photoframe.
+I soldered a speaker with a custom voice message onto a photoframe.
 
 ## Features
 
@@ -19,6 +19,8 @@ I soldered a speaker with a custom message onto a photoframe.
 |---------|-----|
 |ISD1820 Voice Module| [Link](https://www.amazon.in/dp/B07JMN25MS?ref=ppx_yo2ov_dt_b_fed_asin_title)
 |Photoframe| [Link](https://www.amazon.in/dp/B0D4ZC13FC?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
+
+Note: these links are not affilate links
 
 #### Miscellaneous items
 Jumper wires, battery cells, multimeter (optional), soldering station etc
