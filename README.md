@@ -1,6 +1,6 @@
 # Talking Frame
 
-I soldered a speaker with a custom voice message onto a photoframe.
+Adding a speaker with a custom voice message onto a photoframe.
 
 ![isd1820](https://github.com/user-attachments/assets/e628e9ca-7463-4bc8-a8b8-81a277afe897)
 
@@ -23,7 +23,7 @@ I soldered a speaker with a custom voice message onto a photoframe.
 |ISD1820 Voice Module| [Link](https://www.amazon.in/dp/B07JMN25MS?ref=ppx_yo2ov_dt_b_fed_asin_title)
 |Photoframe| [Link](https://www.amazon.in/dp/B0D4ZC13FC?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
 
-Note: these links are not affilate links
+Note: these links are not affiliate links
 
 #### Miscellaneous items
 Jumper wires, battery cells, multimeter (optional), soldering station etc
@@ -42,6 +42,10 @@ Jumper wires, battery cells, multimeter (optional), soldering station etc
 Tip #1: Dip the copper wires in flux before soldering
 
 Tip #2: Scratch the caps of the battery cells, so that it's easier for solder to stick on.
+
+## Test
+* Click and hold the red "REC" button to record your voice msg
+* Click on the middle button (PLAYE) to play the recorded message.
 
 ## Disclaimer
 Stay safe! Soldering tip can be hot, be careful to place it away, alligator clips are useful in holding stuff in place. Don't heat the batter cells too much. Be careful of the polarity. 
