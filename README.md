@@ -2,6 +2,9 @@
 
 I soldered a speaker with a custom voice message onto a photoframe.
 
+![isd1820](https://github.com/user-attachments/assets/e628e9ca-7463-4bc8-a8b8-81a277afe897)
+
+
 ## Features
 
 * Record a message, jingle or song.
